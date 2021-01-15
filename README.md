@@ -9,4 +9,4 @@ _ Le rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel o
 _ Le code source complet du site amélioré ;
 _ Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
 
-Lien vers la GitHub Page : 
+Lien vers la GitHub Page : https://brissok.github.io/BriceTchijouk_4_150121/
