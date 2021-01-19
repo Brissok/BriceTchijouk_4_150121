@@ -679,6 +679,17 @@ a {
 p {
     font-size: 12px;
 }
+blockquote {
+    color: #575757;
+    font-style: italic;
+    font-size: 20px;
+    max-width: 562px;
+    margin: 0 auto;
+    border: none;
+}
+figcaption {
+    color: #575757;
+}
 
 .tight-width-whitespace {
     max-width: 600px;
