@@ -44,7 +44,7 @@ a:hover {
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 50px 50px;
 }
 
 .bloc-md {
@@ -675,6 +675,13 @@ a {
 p {
     font-size: 12px;
 }
+
+.big-text{
+    font-size: 20px;
+    max-width:600px;
+    margin:2.5rem auto
+}
+
 blockquote {
     color: #575757;
     font-style: italic;
@@ -689,7 +696,7 @@ figcaption {
 
 .tight-width-whitespace {
     max-width: 600px;
-    margin: auto auto auto auto;
+    margin: 2.5rem auto;
 }
 
 .h1 {
@@ -786,6 +793,10 @@ h4 {
 
 .tc-white {
     color: #F9A37B!important;
+}
+
+.title-white {
+    color:#fff;
 }
 
 .btn-atomic-tangerine {
@@ -911,9 +922,6 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
-    }
-    h2 {
-        font-size: 20px;
     }
     .b-parallax {
         background-attachment: scroll;
